@@ -43,13 +43,7 @@ Copy code
    ```bash
    git clone <repo-url>
    cd frontend
-   Install dependencies:
-
-   bash
-   Copy code
    npm install
-   Run development server:
-   
-   bash
-   Copy code
+   npm install tailwindcss @tailwindcss/vite // Also add tailwinndcss() in vite.config and import tailwindcss from '@tailwindcss/vite'
+   @import "tailwindcss";  // Add this in main css file
    npm run dev
