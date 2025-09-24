@@ -1,12 +1,55 @@
-# React + Vite
+ 🚀 Frontend Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **React.js (with Vite)** based frontend project. The app is styled with **TailwindCSS** and follows a modular component-based architecture.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📂 Project Structure
 
-## Expanding the ESLint configuration
+frontend/
+│── src/
+│ ├── assets/ # Images, icons, and static assets
+│ ├── components/ # Reusable React components
+│ ├── App.css # App-level styles
+│ ├── App.jsx # Root React component
+│ ├── index.css # Global styles (Tailwind entry)
+│ ├── main.jsx # React entry point
+│
+│── .gitignore # Git ignored files
+│── README.md # Project documentation
+│── eslint.config.js # ESLint configuration
+│── index.html # HTML entry point (Vite)
+│── package.json # Project metadata and dependencies
+│── package-lock.json # Dependency lock file
+│── vite.config.js # Vite configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+yaml
+Copy code
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js 19** – UI library  
+- **Vite** – Fast build tool  
+- **TailwindCSS** – Utility-first CSS framework  
+- **ESLint** – Code linting and best practices  
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone <repo-url>
+   cd frontend
+Install dependencies:
+
+bash
+Copy code
+npm install
+Run development server:
+
+bash
+Copy code
+npm run dev
