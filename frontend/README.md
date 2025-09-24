@@ -43,13 +43,13 @@ Copy code
    ```bash
    git clone <repo-url>
    cd frontend
-Install dependencies:
+   Install dependencies:
 
-bash
-Copy code
-npm install
-Run development server:
-
-bash
-Copy code
-npm run dev
+   bash
+   Copy code
+   npm install
+   Run development server:
+   
+   bash
+   Copy code
+   npm run dev
