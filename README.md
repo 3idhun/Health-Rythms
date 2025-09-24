@@ -4,7 +4,7 @@ Below is the assignment information for reference.
       
       https://preview.uxpin.com/c10f5b79da0d99bc1acbab7f4e7629db199ef424#/pages/165617785/simulate/no-panels
 
-      ## Answer in /frontend
+** Answer in /frontend **
       
       2) Write an SQL query to fetch the employee ID, name, and department from the employee database by grouping by department whose salary equals or exceeds 20000/-.
       
