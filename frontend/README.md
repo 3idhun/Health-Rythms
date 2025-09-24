@@ -1,6 +1,8 @@
  🚀 Frontend Project
 
-This is a **React.js (with Vite)** based frontend project. The app is styled with **TailwindCSS** and follows a modular component-based architecture.
+This is a **React.js (with Vite)** based frontend project. The app is styled with **TailwindCSS** and follows a modular component-based architecture. It was deployed through vercel.
+
+Deployment URL : https://health-rythms-8k54jwekk-midhuns-projects-dc195bc8.vercel.app/
 
 ---
 
