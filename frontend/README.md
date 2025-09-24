@@ -38,7 +38,7 @@ Deployment URL : https://health-rythms-8k54jwekk-midhuns-projects-dc195bc8.verce
 
 ## Video Demonstration
 
-<img width="1920" height="1080" alt="" src="https://drive.google.com/file/d/1d3ZePUvUK1qJqyQJKzCeG7aW-yHT6gxG/view?usp=drive_link" />
+(https://drive.google.com/file/d/1d3ZePUvUK1qJqyQJKzCeG7aW-yHT6gxG/view?usp=drive_link)
 
 
 
