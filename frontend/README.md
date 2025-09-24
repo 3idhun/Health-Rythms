@@ -4,30 +4,6 @@ This is a **React.js (with Vite)** based frontend project. The app is styled wit
 
 ---
 
-## 📂 Project Structure
-
-frontend/
-│── src/
-│ ├── assets/ # Images, icons, and static assets
-│ ├── components/ # Reusable React components
-│ ├── App.css # App-level styles
-│ ├── App.jsx # Root React component
-│ ├── index.css # Global styles (Tailwind entry)
-│ ├── main.jsx # React entry point
-│
-│── .gitignore # Git ignored files
-│── README.md # Project documentation
-│── eslint.config.js # ESLint configuration
-│── index.html # HTML entry point (Vite)
-│── package.json # Project metadata and dependencies
-│── package-lock.json # Dependency lock file
-│── vite.config.js # Vite configuration
-
-yaml
-Copy code
-
----
-
 ## 🛠️ Tech Stack
 
 - **React.js 19** – UI library  
