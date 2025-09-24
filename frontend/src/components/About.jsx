@@ -120,12 +120,12 @@ const About = ({ scrollToSection }) => {
             </button>
           </div>
 
-          <div className="flex justify-end">
+          <div className="flex justify-center">
             <div className="img">
               <img
                 src={PhoneImg}
                 alt="Mobile Interface"
-                className="w-[40%] h-[90%] ml-60 rounded-2xl"
+                className="w-85 h-140 ml-10 rounded-2xl"
               />
               <div className="absolute inset-0 bg-opacity-90 rounded-3xl"></div>
             </div>

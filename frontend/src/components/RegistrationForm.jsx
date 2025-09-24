@@ -1,5 +1,3 @@
-import React from "react";
-
 const RegistrationForm = () => {
   return (
     <section id="register" className="py-20 bg-gray-50">

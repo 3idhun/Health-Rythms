@@ -25,7 +25,7 @@ const Hero = ({ scrollToSection }) => {
               <img
                 src={sitting}
                 className="w-300 h-125 rounded-lg shadow-2xl"
-                alt="Person sitting with a laptop"
+                alt="Person"
               />
             </div>
           </div>
